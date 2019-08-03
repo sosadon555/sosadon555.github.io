@@ -172,6 +172,7 @@ h2 ~ p {
 .footer-nav a {
   color: #ccc;
 }
+
 /* HERO STYLES */
 
 .full-hero {
@@ -208,6 +209,7 @@ h2 ~ p {
   display: inline-block;
   margin: 0 0.5em;
 }
+
 
 /* BIO STYLES */
 .bio-wrapper {
