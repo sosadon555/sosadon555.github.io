@@ -12,7 +12,7 @@ layout: default
         <img src="{{ page.gravatar }}">
         <a href="{{ page.authorTwitter}}" class="social-link">Tw</a>
         by: {{ page.author }}
-        <span> - {{ page.date | '%B %d, %Y' }}</span>
+        <span> - {{ page.date | date: '%B %d, %Y' }}</span>
       </div>
     </header>
     <aside class="post-aside">
