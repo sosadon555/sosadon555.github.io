@@ -643,6 +643,21 @@ h2 ~ p {
     display: none;
   }
 
+  /* PAGE STYLES */
+  .page {
+    width: auto;
+  }
+
+  .post-byline img {
+
+
+  }
+
+  .post-content {
+    width: auto;
+    padding: 1em;
+  }
+
 
   /* GALLERY STYLES */
   .gallery {
