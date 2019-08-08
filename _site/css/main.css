@@ -643,6 +643,17 @@ h2 ~ p {
     display: none;
   }
 
+  /* PAGE STYLES */
+  .page {
+    width: auto;
+  }
+
+
+  .post-content {
+    width: auto;
+    padding: 1em;
+  }
+
 
   /* GALLERY STYLES */
   .gallery {
